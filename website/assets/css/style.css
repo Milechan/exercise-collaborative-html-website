@@ -1,3 +1,61 @@
 body{
-    background: #BDBDBD;
+    background: rgb(232, 232, 232);
+}
+
+
+/* Services */
+
+#services{
+    
+    margin-right: 2%;
+}
+
+#services img{
+   border-radius: 50%;
+   margin-top: 2%;
+   margin-left: 21%;
+}
+/* Fin de Services */
+.porfolio{
+    margin-top: 10%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+
+/* Inicio de Porfolio */
+.porfolio h5{
+    color: rgb(78, 78, 213);
+    font-family:  'Arial Narrow Bold', sans-serif;
+    margin-left: 1px;
+    
+}
+
+.porfolio .card{
+    border: none;
+}
+.porfolio .card-body{
+    background-color:rgb(232, 232, 232); 
+    border-style: none;
+    margin-left: -15px;
+}
+/* Fin de Porfolio */
+
+
+/* Inicio de Contac */
+
+.contact{
+    margin-top: 10%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.contact .contac-form{
+
+    margin-left: 50px;
+    margin-right: 80px;
+    padding-top: 10px;
+    padding-left: 40px;
+    padding-right: 10px;
+    background-color: rgb(226, 225, 225);
 }
